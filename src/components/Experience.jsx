@@ -8,9 +8,9 @@ const Experience = () => {
     year: "2026" 
   },
   { 
-    title: "Independent Research Project", 
-    role: "Phishing URL Detection — Robustness & Explainability Analysis", 
-    year: "2026 (Under Review)" 
+    title: "Indian Institute of Technology, Palakkad",
+    role: "Research Intern (Machine Learning & Systems)",
+    year: "2026" 
   }
 ];
 
