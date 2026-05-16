@@ -9,7 +9,7 @@ const Experience = () => {
   },
   { 
     title: "Indian Institute of Technology, Palakkad",
-    role: "Research Intern (Machine Learning & Systems)",
+    role: "Research Intern (Algorithms & Game Theory)",
     year: "2026" 
   }
 ];
