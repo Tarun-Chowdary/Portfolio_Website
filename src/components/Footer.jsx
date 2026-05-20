@@ -13,7 +13,7 @@ const Footer = () => {
   const socialLinks = [
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/taryegi/' },
     { name: 'Github', url: 'https://github.com/Tarun-Chowdary' },
-    { name: 'Resume', url: 'https://drive.google.com/file/d/1Vg9v9rXuOcmgx7z1vqqOjJKWG7V3_FW-/view?usp=sharing' },
+    { name: 'Resume', url: 'https://drive.google.com/file/d/1BzCDFBGttqCrmVMkxIanax-qS1doBalw/view?usp=sharing' },
   ];
 
   return (
