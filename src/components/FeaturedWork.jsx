@@ -9,13 +9,13 @@ const FeaturedWork = () => {
 
   const works = [
   { 
-    title: "CampusWhisper", 
-    tag: "Real-Time Chat Platform", 
-    year: "2025", 
-    img: "/works/campuswhisper.png",
-    description: "Real-time MERN chat application with WebSocket architecture and privacy-focused 5-minute auto message deletion.",
-    tech: "React, Node.js, MongoDB, WebSockets",
-    url: "https://github.com/Tarun-Chowdary/CampusWhisper"
+    title: "SpiritCli", 
+    tag: " Real-Time Dependency Security Intelligence for Banking Codebases", 
+    year: "2026", 
+    img: "/works/spiritcli.png",
+    description: "Built an AST-powered dependency security scanner for banking codebases that combines CVE analysis, provenance trust, configuration auditing, and transitive dependency tracking to detect supply-chain risks missed by traditional vulnerability scanners.",
+    tech: "Python, AST Analysis, SQLite, OSV/CVE APIs, CycloneDX, GitHub Actions",
+    url: "https://github.com/Tarun-Chowdary/SpiritCli"
   },
   { 
     title: "Phishing URL Detection", 
@@ -25,6 +25,15 @@ const FeaturedWork = () => {
     description: "Built a high-accuracy phishing detection system with robustness testing, cross-dataset evaluation, and SHAP-based explainability.",
     tech: "Python, Scikit-learn, XGBoost, SHAP",
     url: "https://github.com/Tarun-Chowdary/phishing-url-detection"
+  },
+  { 
+    title: "CampusWhisper", 
+    tag: "Real-Time Chat Platform", 
+    year: "2025", 
+    img: "/works/campuswhisper.png",
+    description: "Real-time MERN chat application with WebSocket architecture and privacy-focused 5-minute auto message deletion.",
+    tech: "React, Node.js, MongoDB, WebSockets",
+    url: "https://github.com/Tarun-Chowdary/CampusWhisper"
   },
   { 
     title: "Portfolio Website", 
